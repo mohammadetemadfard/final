@@ -14,7 +14,9 @@ body {
   margin-top: 40px;
 }
 input {
-  background : rgba(35, 28, 45, 0.899)
+  background-color : rgba(170, 157, 255, 0.222);
+  border-style: none;
+  border-radius: 30px;
   float: center;
   clear: both;
   width: 425px;
